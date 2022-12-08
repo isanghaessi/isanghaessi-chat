@@ -2,30 +2,32 @@
 
 ## 프로젝트 목표
 - 간단한 예제를 최대한 어렵게(단단하게) 구현해보자.
-- Java / Node 서버 기반으로 2가지 버전을 만들어보자.
+- Java / Node 각 필요에 맞게 만들어보자.
+- kotilin을 적용해보자.
 - Typescript를 적용해보자.
 
 ## 기능
-- OAuth 인증 / 로그인
-- 자유 게시판
+- 유틸리티
+  - 계산기
 - 오픈 채팅
 
-## 기술
+## 어플리케이션
 - Java / Srping Boot
 - Node.js / Nest.js
 - Vue.js
 
-## 기타
+## 인프라
 - HTTPS
+- jenkins CI / CD
 - AWS
 - WebSocket
-- Jenkins CI / CD
 - MySQL
 - NongoDB
-- Docker
+- Docker / Kubernetes
 
 ## 추가하고 싶은 것들
-- Kafka를 이용한 절대 터지지 않는 좋아요 누적 페이지?
+- Kafka를 이용한 절대(거의 / 효율적으로) 터지지 않는 좋아요 누적 페이지?
+- SEO 최적화
 
 ## 다짐
 - Wiki, PR, Project를 적극 활용하여 많은 기록물을 남기자.
